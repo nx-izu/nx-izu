@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nx-izu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript @aptlearn
+- 🌱 I’m currently learning HTML, CSS and JavaScript @aptlearn and @freeCodeCamp
 - 💞️ I’m looking to collaborate on various responsive website that appeals to users
 - 📫 Reach out to me on twitter @nursepreneurrr
 
